@@ -34,11 +34,12 @@ body{
 
 #nav{
   height:110px;
-  color:#00b8d4;
+  color:white;
 }
 
 #logo{
   height:90px;
+  width: 120px;
 }
 
 #bar{
@@ -50,7 +51,13 @@ body{
 }
 
 #icons{
-  color:red;
+  color:blue;;
 }
 
-.responsive-img{}
+.a{
+  color:black;
+}
+
+#link{
+  color:black;
+}
