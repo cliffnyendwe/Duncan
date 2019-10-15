@@ -62,3 +62,7 @@ body{
 #link{
   color:black;
 }
+
+h2,h4{
+  font-family: Arial Black;
+}
