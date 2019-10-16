@@ -64,3 +64,15 @@ body{
 h2,h4{
   font-family: Arial Black;
 }
+
+#about{
+  paddint top:1000px;
+}
+#cap{
+  text-transform: capitalize;
+  padding-top: px;
+}
+
+.tabs-center{
+  padding-top:300px;
+}
